@@ -1,0 +1,8 @@
+Testsuite: test.Assign5TestSuite
+Tests run: 5, Failures: 0, Errors: 0, Time elapsed: 0.045 sec
+
+Testcase: testLevel1 took 0.013 sec
+Testcase: testLevel2 took 0.002 sec
+Testcase: testLevel3 took 0.004 sec
+Testcase: testLevel4 took 0.006 sec
+Testcase: testLevel5 took 0.002 sec
